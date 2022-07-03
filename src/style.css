@@ -92,7 +92,7 @@ html{
 #home::before{
     content: "";
     position: absolute;
-    background: url('/background/michael-hull-UdvXJ95Yqt8-unsplash.jpg') no-repeat center center/cover;
+    background: url('background/michael-hull-UdvXJ95Yqt8-unsplash.jpg') no-repeat center center/cover;
     top: 0px;
     left: 0px;
     height: 74%;
@@ -148,7 +148,7 @@ html{
 #client-section::before{
     content:"";
     position: absolute;
-    background: url('/background/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg') no-repeat center center/cover;
+    background: url('background/graham-holtshausen-fUnfEz3VLv4-unsplash.jpg') no-repeat center center/cover;
     width:100%;
     height:54%;
     z-index: -1;
@@ -185,7 +185,7 @@ html{
     height: 588px;
     z-index: -1;
     opacity: 0.9;
-    background: url('/background/sam-goodgame-VkbjpDtquzI-unsplash.jpg') no-repeat center center/cover;
+    background: url('background/sam-goodgame-VkbjpDtquzI-unsplash.jpg') no-repeat center center/cover;
     /* background-position: 300px; */
     background-size: 80%;
 }
@@ -224,7 +224,7 @@ html{
     width: 100%;
     height: 40%;
     z-index: -1;
-    background: url('/background/nathan-anderson-L95xDkSSuWw-unsplash.jpg') no-repeat center center/cover;
+    background: url('background/nathan-anderson-L95xDkSSuWw-unsplash.jpg') no-repeat center center/cover;
 
 }
 
